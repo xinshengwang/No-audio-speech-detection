@@ -26,10 +26,10 @@ python train.py
 
 ### Cite
 
-@article{wang2020multimodal ,
-title={Multimodal Fusion of Body Movement Signals for No-audio Speech Detection},
-author={Xinsheng Wang, Jihua Zhu, Odette Scharenborg},
-journal={MediaEval'20},
-year={2020}
+@article{wang2020multimodal, \
+title={Multimodal Fusion of Body Movement Signals for No-audio Speech Detection}, \
+author={Xinsheng Wang, Jihua Zhu, Odette Scharenborg},\
+journal={MediaEval'20},\
+year={2020}\
 }
 
